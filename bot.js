@@ -10,4 +10,4 @@ channel.send(`ارحبووو`);
 }, 30)
 })
 
-client.login('NTI2OTcyNzA3NDAxNzYwNzc4.DwgSkw.gAiZe1cXifSJSCEfHbdJ9xKlpCU');
+client.login('528307636492435456.JAL8WS5QGxP6LCKAm-JveBew-P4')
