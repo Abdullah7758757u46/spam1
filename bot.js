@@ -4,10 +4,10 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("528300898624208897")
+let channel =     client.channels.get("هنا اي دي الروم")
 setInterval(function() {
-channel.send(`ارحبووو`);
+channel.send(`هنا كلام ال سبام`);
 }, 30)
 })
 
-client.login('528307636492435456.JAL8WS5QGxP6LCKAm-JveBew-P4')
+client.login(process.env.BOT_TOKEN);
